@@ -1,0 +1,13 @@
+=========== Informacion de la pc ===========  
+
+    sistema operativo: Windows, 10.0.19045
+
+    Arquitectura: AMD64
+
+    Procesador: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+    Hostname: DESKTOP-90LA35V
+
+    Ip: 10.0.0.169
+    
+    
